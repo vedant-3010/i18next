@@ -1,0 +1,7 @@
+{
+  "greeting": "Bonjour, réactif",
+  "description": {
+    "line1": "J'essaie d'utiliser <1>{{dep}}</1>",
+    "line2": "Connectons-nous"
+  }
+}
